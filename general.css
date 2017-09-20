@@ -3,7 +3,7 @@ body {
     url('img/cover.jpeg');
   background-size: cover;
   background-position: center;
-  font-family: lato;
+  font-family: Satisfy;
   color: #ffffff;
 }
 
@@ -22,6 +22,7 @@ html {
 h1 {
   font-weight: 700;
   font-size: 5em;
+  padding-bottom: 3%;
 }
 
 .time {
@@ -32,7 +33,7 @@ h1 {
 }
 
 hr {
-   width: 400px;
+   width: 350px;
    border-top: 1px solid #f8f8f8;
    border-bottom: 1px solid rgba(0,0,0,0.2);
  }
